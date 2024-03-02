@@ -29,3 +29,6 @@ BRIDGE_TRANSACTION=https://api.bridgeapi.io/v2/transactions
 
 #LANCEMENT DU SCRIPT:
 - node index.js
+
+#LANCEMENT DU TEST:
+commande : jest
