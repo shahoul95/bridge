@@ -1,5 +1,7 @@
 #ENVIRONNEMENT
 
+- Utilisation de la version 20 de node.
+
 Créer un fichier ".env" à la racine du projet.
 
 Ajouter les environnements dans le fichier .env : 
