@@ -1,4 +1,4 @@
-#ENVIRONNEMENT
+## ENVIRONNEMENT
 
 - Utilisation de la version 20 de node.
 
@@ -26,13 +26,13 @@ BRIDGE_ACCOUNT=https://api.bridgeapi.io/v2/accounts
 
 BRIDGE_TRANSACTION=https://api.bridgeapi.io/v2/transactions
 
-#INSTALLER LES DEPENDANCES:
+## INSTALLER LES DEPENDANCES:
 
 - npm i 
 
-#LANCEMENT DU SCRIPT:
+## LANCEMENT DU SCRIPT:
 - node index.js
 
-#LANCEMENT DU TEST:
+## LANCEMENT DU TEST:
 
 commande : jest
